@@ -1,11 +1,11 @@
 var = {
   "id": "b1e9727a-d522-45e8-8311-b6b01054af25",
   "version": "2.0",
-  "name": "broker",
+  "name": "Test_broker_acc",
   "url": "https://prerelease.smarttrader.com",
   "tests": [{
     "id": "d16b8392-987f-44f2-9ed1-0f7a8b7db513",
-    "name": "broker2",
+    "name": "Test_broker_acc",
     "commands": [{
       "id": "2b64a52b-c1e6-4c2a-99e0-051379ea822e",
       "comment": "",
