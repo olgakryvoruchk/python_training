@@ -90,8 +90,8 @@ var = {
   "suites": [{
     "id": "84619398-780f-44af-bc7a-0482fedb4baa",
     "name": "Default Suite",
-    "persistSession": false,
-    "parallel": false,
+    "persistSession": False,
+    "parallel": False,
     "timeout": 300,
     "tests": ["d16b8392-987f-44f2-9ed1-0f7a8b7db513"]
   }],
